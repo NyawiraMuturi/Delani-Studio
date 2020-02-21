@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.landing_page{
+    background-image: url("../img/backgrounds/h_img.jpg");
+    height: auto;
+    width: auto;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: white;
+    padding-top: 180px;
+}
+.mouse{
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+.about{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.serv{
+    background-image: url("../img/backgrounds/s_image.jpg");
+    height: auto;
+    width: auto;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: white;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
