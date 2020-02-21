@@ -53,5 +53,9 @@
 }
 .portfolio{
     text-align: center;
-    padding-bottom: 1rem;
+}
+.portimg{
+    height: 230px;
+    width: auto;
+    padding: 10px;
 }
