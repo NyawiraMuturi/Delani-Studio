@@ -32,3 +32,26 @@
     padding-top: 70px;
     padding-bottom: 70px;
 }
+.servicons {
+    padding: 50px;
+}
+.profile{
+    text-align: center;
+    padding-right: 50px;
+}
+.des{
+    padding-top: 20px;
+    text-align: center;
+}
+.dev{
+    padding-top: 20px;
+    text-align: center;
+}
+.pm{
+    padding-top: 20px;
+    text-align: center;
+}
+.portfolio{
+    text-align: center;
+    padding-bottom: 1rem;
+}
