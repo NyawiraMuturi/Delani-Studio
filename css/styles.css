@@ -59,3 +59,22 @@
     width: auto;
     padding: 10px;
 }
+.contact{
+    background-image: url('../img/backgrounds/c_image.jpg');
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding: 2rem;
+}
+.form-control{
+    background: transparent;
+    border-bottom:white solid;
+}
+.form{
+    justify-content: center;
+}
+
+#textarea {
+    height: 250px;
+    padding-bottom: 50px;
+}
