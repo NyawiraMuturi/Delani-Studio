@@ -70,6 +70,10 @@
     background: transparent;
     border-bottom:white solid;
 }
+.form-control::placeholder{
+    color: white;
+    opacity: 1;
+}
 .form{
     justify-content: center;
 }
