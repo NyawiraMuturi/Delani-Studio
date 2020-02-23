@@ -51,6 +51,9 @@
     padding-top: 20px;
     text-align: center;
 }
+.design, .development, .pmanagement {
+    display: none;
+}
 .portfolio{
     text-align: center;
 }

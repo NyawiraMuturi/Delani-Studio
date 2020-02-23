@@ -1,3 +1,4 @@
+//validate form
 function validateForm() {
     var name = document.getElementById("name").value;
     var email = document.getElementById("email").value;
@@ -16,3 +17,17 @@ function validateForm() {
     }
         
 }
+$(document).ready(function() {
+    $("#toClick1").click(function(){
+        $(".img1").toggle(100);
+        $(".design").toggle(100);
+    });
+    $("#toClick2").click(function(){
+        $(".img2").toggle(100);
+        $(".development").toggle(100);
+    });
+    $("#toClick3").click(function(){
+        $(".img3").toggle(100);
+        $(".pmanagement").toggle(100);
+    });
+})
