@@ -65,6 +65,7 @@
 .text1, .text2, .text3, .text4, .text5, .text6, .text7, .text8 {
     display: none;
 }
+
 .contact{
     background-image: url('../img/backgrounds/c_image.jpg');
     background-size: cover;
@@ -87,4 +88,23 @@
 #textarea {
     height: 250px;
     padding-bottom: 50px;
+}
+.btn{
+    margin-top: 1rem;
+}
+.footer {
+    padding-top: 40px;
+    align-items: center;    
+    align-content: center;
+    padding-left: 200px;
+}
+#img1, #img2, #img3, #img4, #img5, #img6, #img7, #img8, #img9, #img10 {
+    margin: 10px;
+}
+h2{
+    text-align: center;
+    padding-top: 1rem;
+}
+h3{
+    text-align: center;
 }
